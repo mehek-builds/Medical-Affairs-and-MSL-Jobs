@@ -1,6 +1,6 @@
 # 25 pharmd and industry fellowships roles
 
-**25 roles at 7 companies.** Checked 16 Oct 2026. PharmD, post-doctoral and industry fellowship programs in medical affairs and beyond.
+**25 roles at 7 companies.** Checked 20 Oct 2026. PharmD, post-doctoral and industry fellowship programs in medical affairs and beyond.
 
 _Pulled from companies' own job boards and rebuilt every Monday._
 

@@ -1,11 +1,14 @@
 # 46 entry level and associate roles
 
-**46 roles at 16 companies.** Checked 16 Oct 2026. Associate, level I, specialist and fellowship roles: the way in without industry experience.
+**46 roles at 15 companies.** Checked 20 Oct 2026. Associate, level I, specialist and fellowship roles: the way in without industry experience.
 
 _Pulled from companies' own job boards and rebuilt every Monday._
 
 | Company | Role | Location | Pay | Posted | Visa signal |
 | --- | --- | --- | --- | --- | --- |
+| **Johnson & Johnson** | [US Medical Affairs GI Summer Intern](https://trylitos.com/job/5bea7c3c-31ec-4edd-b2de-5e14091941d1?utm_source=github&utm_campaign=med-affairs-entry-level) | Horsham, Pennsylvania, United States of Ameri |  | Oct 16 |  |
+| **Sanofi** | [Medical Affairs Trainee](https://trylitos.com/job/7c604c3e-7844-4d2f-becf-8f1d358c1d45?utm_source=github&utm_campaign=med-affairs-entry-level) | Porto Salvo |  | Oct 16 |  |
+| **Johnson & Johnson** | [Translational Post Doctoral Researcher - Agentic AI for Neurodegeneration](https://trylitos.com/job/79515cd9-0d4c-4161-b3fb-ae8d1ed82240?utm_source=github&utm_campaign=med-affairs-entry-level) | Titusville, New Jersey, United States of Amer |  | Oct 14 |  |
 | **IQVIA** | [Medical Information Specialist with Latvian, English and Additional Language](https://trylitos.com/job/617e554b-32eb-4004-af42-0535bf6c2897?utm_source=github&utm_campaign=med-affairs-entry-level) | Riga, Latvia; Lisbon, Portugal; Zagreb, Croat |  | Oct 14 |  |
 | **Merck & Co. (MSD)** | [Associate Scientist, Post Doc Fellow- Immunology Analytics](https://trylitos.com/job/8c598eb6-504f-422e-b104-c15404e9dbcf?utm_source=github&utm_campaign=med-affairs-entry-level) | USA - Massachusetts - Cambridge (320 Bent Str |  | Oct 14 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Merck & Co. (MSD)** | [2027 Future Talent Program - Global Lung Medical Affairs - Intern](https://trylitos.com/job/cd663956-ae3c-4644-838d-35d9068748fb?utm_source=github&utm_campaign=med-affairs-entry-level) | USA - New Jersey - Rahway; USA - Pennsylvania |  | Oct 14 |  |
@@ -25,15 +28,12 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **IQVIA** | [Medical Information Specialist with Bulgarian, English and Additional Language](https://trylitos.com/job/e55d7ef2-c2b8-4247-98be-a64968a5a654?utm_source=github&utm_campaign=med-affairs-entry-level) | Sofia, Bulgaria; Lisbon, Portugal; Budapest, |  | Oct 9 |  |
 | **IQVIA** | [Medical Information Specialist with Greek, German and English](https://trylitos.com/job/57813439-a0a4-4084-875d-e42810f7ce2b?utm_source=github&utm_campaign=med-affairs-entry-level) | Athens, Greece; Lisbon, Portugal; Budapest, H |  | Oct 8 |  |
 | **IQVIA** | [Medical Information Specialist with German, English and one more additional language](https://trylitos.com/job/9830e8f0-3697-4446-abb7-cf726a0e3259?utm_source=github&utm_campaign=med-affairs-entry-level) | Sofia, Bulgaria; Zagreb, Croatia; Athens, Gre |  | Oct 8 |  |
-| **IQVIA** | [Medical Information/ PV Specialist with German and English.](https://trylitos.com/job/b00b11c9-819d-4414-9784-85a9ac3317e8?utm_source=github&utm_campaign=med-affairs-entry-level) | Madrid, Spain |  | Oct 8 |  |
 | **Pfizer** | [Postdoctoral Research Fellow - Endogenous Biomarkers and Translational ADME](https://trylitos.com/job/3f45778b-fbd7-4aa2-a024-3d8de3d44fd6?utm_source=github&utm_campaign=med-affairs-entry-level) | United States - Connecticut - Groton |  | Oct 7 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
-| **GSK** | [Medical Affairs Trainee](https://trylitos.com/job/66cca6fd-4afc-4672-b232-3265546b9796?utm_source=github&utm_campaign=med-affairs-entry-level) | Lisbon |  | Oct 7 |  |
 | **AstraZeneca** | [Postdoctoral Fellow - Biocatalysis, Synthetic Chemistry and Technology Scale-Up](https://trylitos.com/job/aa0d88cb-4023-40ed-9d69-4285165ccb16?utm_source=github&utm_campaign=med-affairs-entry-level) | Sweden - Gothenburg |  | Oct 6 |  |
 | **Regeneron** | [Postdoctoral Fellow](https://trylitos.com/job/74ea93f7-44fd-4a6e-a27b-2cf9e621fdce?utm_source=github&utm_campaign=med-affairs-entry-level) | TARRYTOWN |  | Oct 6 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **ICON plc** | [Medical Operations Associate](https://trylitos.com/job/058d1a1c-5656-400c-87d0-be8d92e5c858?utm_source=github&utm_campaign=med-affairs-entry-level) | Poland, Warsaw; Romania, Bucharest |  | Oct 4 |  |
 | **Smith+Nephew** | [Event Operations Specialist (w/m/x) Medical Education / Inhouse](https://trylitos.com/job/ff3cb80a-be0f-437e-ba00-bacd46cf40a9?utm_source=github&utm_campaign=med-affairs-entry-level) | DEU - München |  | Oct 1 |  |
 | **Northeastern** | [Dompé US - Global Medical Affairs - Medical Information & Operations and Medical Communications Postdoctoral Research Fellow](https://trylitos.com/job/c0732c3e-0cfa-47f8-aa95-e550bab4115a?utm_source=github&utm_campaign=med-affairs-entry-level) | Boston, MA (Main Campus) |  | Sep 30 |  |
-| **AstraZeneca** | [Medical Science Liaison R&I (Polska Północna)](https://trylitos.com/job/04f7a89e-7352-4261-bed8-d6a37faae460?utm_source=github&utm_campaign=med-affairs-entry-level) | Poland - Warsaw |  | Sep 30 |  |
 | **Vertex Pharmaceuticals** | [Medical Science Liaison / Junior Medical Science Liaison (FTC)](https://trylitos.com/job/d760ad7d-2ec7-4ec3-994c-0db86708d7ef?utm_source=github&utm_campaign=med-affairs-entry-level) | Haarlem, Netherlands |  | Sep 30 |  |
 | **Northeastern** | [Vertex - Medical Affairs Postdoctoral Research Fellow](https://trylitos.com/job/86bb75ea-a605-4d86-abe0-aa5288f62fac?utm_source=github&utm_campaign=med-affairs-entry-level) | Boston, MA (Main Campus) |  | Sep 30 |  |
 | **Northeastern** | [Takeda - Global Medical Affairs Postdoctoral Research Fellow](https://trylitos.com/job/4a9fc2b5-b839-41c8-aae8-2792a73cf543?utm_source=github&utm_campaign=med-affairs-entry-level) | Boston, MA (Main Campus) |  | Sep 30 |  |
