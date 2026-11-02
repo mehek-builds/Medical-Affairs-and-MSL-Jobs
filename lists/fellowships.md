@@ -1,11 +1,15 @@
 # 30 pharmd and industry fellowships roles
 
-**30 roles at 9 companies.** Checked 26 Oct 2026. PharmD, post-doctoral and industry fellowship programs in medical affairs and beyond.
+**30 roles at 10 companies.** Checked 2 Nov 2026. PharmD, post-doctoral and industry fellowship programs in medical affairs and beyond.
 
 _Pulled from companies' own job boards and rebuilt every Monday._
 
 | Company | Role | Location | Pay | Posted | Visa signal |
 | --- | --- | --- | --- | --- | --- |
+| **AstraZeneca** | [US Medical Affairs Digital Innovation & Medical Communications Intern (PharmD)](https://trylitos.com/job/f163778e-bc0b-44c6-ab08-573bb34c8d2c?utm_source=github&utm_campaign=med-affairs-fellowships) | US - Boston - MA |  | Oct 30 |  |
+| **Sanofi** | [2027 Spring Post-Doctoral Fellowship Opportunities, Waltham, MA](https://trylitos.com/job/75d0ff38-3ce3-4c8a-8c2e-b2f3430149e0?utm_source=github&utm_campaign=med-affairs-fellowships) | Waltham, MA |  | Oct 30 |  |
+| **Merck & Co. (MSD)** | [Associate Scientist, Post Doc Fellow- Biologics Research & Development](https://trylitos.com/job/f2f9984e-9cb4-4b3a-8871-057434620a1f?utm_source=github&utm_campaign=med-affairs-fellowships) | USA - New Jersey - Rahway |  | Oct 28 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
+| **Vertex Pharmaceuticals** | [Regulatory Affairs Fellow (12 months)](https://trylitos.com/job/8af698b1-8a0d-4bf8-892f-a822395b7a83?utm_source=github&utm_campaign=med-affairs-fellowships) | Paddington, United Kingdom |  | Oct 26 | Employer holds a UK sponsor licence (Home Office register) |
 | **Roche** | [MD Clinical Development Fellowship - Infectious Diseases](https://trylitos.com/job/a9b33a54-69bf-408f-b2d4-aeb813b544d5?utm_source=github&utm_campaign=med-affairs-fellowships) | Welwyn |  | Oct 23 | Employer holds a UK sponsor licence (Home Office register) |
 | **GE HealthCare** | [CDTNet PhD Fellow](https://trylitos.com/job/d0284f50-5e12-4c20-b993-e53067487427?utm_source=github&utm_campaign=med-affairs-fellowships) | Oslo |  | Oct 23 |  |
 | **Johnson & Johnson** | [Fellow MSAT Nitrosamine & Impurity Lead](https://trylitos.com/job/a0c109e2-e335-45f6-94f3-cf9c1e4c62e1?utm_source=github&utm_campaign=med-affairs-fellowships) | Schaffhausen, Switzerland |  | Oct 23 |  |
@@ -16,11 +20,6 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **AstraZeneca** | [US Medical Affairs Doctoral and PharmD Intern, GI Oncology](https://trylitos.com/job/830585d0-cd29-4040-bbcc-12c2e3028891?utm_source=github&utm_campaign=med-affairs-fellowships) | US - Gaithersburg - MD |  | Oct 20 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **AstraZeneca** | [Postdoctoral Fellow - Explore epigenetic mechanisms of anti-cancer drug resistance](https://trylitos.com/job/ccc11f4a-d06b-4da2-871d-f2b1c7c6763e?utm_source=github&utm_campaign=med-affairs-fellowships) | Cambridge MA - 100 Binney Street |  | Oct 20 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Merck & Co. (MSD)** | [Postdoctoral Research Fellow- Biologics Formulation and Drug Delivery](https://trylitos.com/job/eddb4e01-b455-4a28-9817-fff7660a5621?utm_source=github&utm_campaign=med-affairs-fellowships) | USA - New Jersey - Rahway |  | Oct 20 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
-| **Merck & Co. (MSD)** | [Associate Scientist, Post Doc Fellow- Immunology Analytics](https://trylitos.com/job/8c598eb6-504f-422e-b104-c15404e9dbcf?utm_source=github&utm_campaign=med-affairs-fellowships) | USA - Massachusetts - Cambridge (320 Bent Str |  | Oct 14 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
-| **Sanofi** | [2027 Spring Post-Doctoral Fellowship Opportunities, Cambridge, MA](https://trylitos.com/job/856be681-b8fb-4880-ad77-e129387bbf72?utm_source=github&utm_campaign=med-affairs-fellowships) | Cambridge, MA |  | Oct 13 |  |
-| **Merck & Co. (MSD)** | [Associate Scientist, Post Doc Fellow- Quantitative Pharmacology and Pharmacometrics](https://trylitos.com/job/038ca6bc-e002-4bdf-b5e4-33d539950cf6?utm_source=github&utm_campaign=med-affairs-fellowships) | USA - Pennsylvania - West Point; USA - New Je |  | Oct 13 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
-| **Merck & Co. (MSD)** | [Associate Scientist, Postdoctoral Fellow - Computational Protein Design](https://trylitos.com/job/a8ca9e50-3dfd-4250-b306-66b35381bf40?utm_source=github&utm_campaign=med-affairs-fellowships) | USA - Massachusetts - Cambridge (320 Bent Str |  | Oct 13 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
-| **Merck & Co. (MSD)** | [Associate Scientist, Post Doc Fellow - Computational Chemistry](https://trylitos.com/job/850f165a-075d-4336-88e9-a7f4a6206272?utm_source=github&utm_campaign=med-affairs-fellowships) | USA - Massachusetts - Boston (MA Parcel B Lab |  | Oct 13 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Regeneron** | [Postdoctoral Fellow](https://trylitos.com/job/74ea93f7-44fd-4a6e-a27b-2cf9e621fdce?utm_source=github&utm_campaign=med-affairs-fellowships) | TARRYTOWN |  | Oct 6 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Northeastern** | [Dompé US - Global Medical Affairs - Medical Information & Operations and Medical Communications Postdoctoral Research Fellow](https://trylitos.com/job/c0732c3e-0cfa-47f8-aa95-e550bab4115a?utm_source=github&utm_campaign=med-affairs-fellowships) | Boston, MA (Main Campus) |  | Sep 30 |  |
 | **Northeastern** | [Vertex - Medical Affairs Postdoctoral Research Fellow](https://trylitos.com/job/86bb75ea-a605-4d86-abe0-aa5288f62fac?utm_source=github&utm_campaign=med-affairs-fellowships) | Boston, MA (Main Campus) |  | Sep 30 |  |
@@ -35,6 +34,7 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **Northeastern** | [Alnylam Pharmaceuticals - Global Medical Affairs TTR Postdoctoral Research Fellow](https://trylitos.com/job/7b9cf00f-0dd4-4ef6-9d6b-e28a15b9d9e3?utm_source=github&utm_campaign=med-affairs-fellowships) | Boston, MA (Main Campus) |  | Sep 30 |  |
 | **Northeastern** | [Alnylam - Early Assets (Pipeline) Global Medical Affairs Postdoctoral Research Fellow](https://trylitos.com/job/0d80685b-d219-4a44-9adf-553c060a6956?utm_source=github&utm_campaign=med-affairs-fellowships) | Boston, MA (Main Campus) |  | Sep 30 |  |
 | **Vertex Pharmaceuticals** | [Heme, Research Fellow](https://trylitos.com/job/f426538c-93c3-4ec7-bfd2-511869298f08?utm_source=github&utm_campaign=med-affairs-fellowships) | Boston, MA |  | Sep 30 |  |
+| **Rochester Institute of Technology** | [Getty Global Art & Sustainability Fellow](https://trylitos.com/job/e7cd75d7-a97b-4df6-b26b-c093f2a75f33?utm_source=github&utm_campaign=med-affairs-fellowships) | Rochester, NY |  | Sep 9 |  |
 | **Vertex Pharmaceuticals** | [Scientific Fellow, Agentic AI (AI Co-Scientist Lead)](https://trylitos.com/job/a378c0da-105b-4f3b-b638-6675618c11f5?utm_source=github&utm_campaign=med-affairs-fellowships) | Boston, MA |  | Sep 8 |  |
 
 [Download as CSV](../csv/) · [All lists](../README.md)
